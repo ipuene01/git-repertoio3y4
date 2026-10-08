@@ -1,0 +1,3 @@
+2.8 - 1.5 = 1.3
+
+Ya que usamos BigDecimal en vez de double no ocurre el mismo error que ocurria en el ejercicio 4 y nos da un resultado exacto.

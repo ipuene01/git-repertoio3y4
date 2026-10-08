@@ -1,0 +1,10 @@
+int NumeroAsignaturas = 5;//Numero de asignaturas de un curso
+double NotaMedia = ;//Nota media de la asignatura
+int edad = ;//Edad de una persona
+long SalarioMensual = ;//Salario mensual de un empleado
+String NombreAsignatura = ;//Nombre de una asignatura
+double PI = 3,14 ;//Constante PI
+boolean Verdadero = true;//Constante VERDADERO
+int portal = ;//Portal de la direccion de una vivienda
+int Piso = ;//Piso de la direccion de una vivienda
+String Puerta = ;//Puerta la direccion de una vivienda
